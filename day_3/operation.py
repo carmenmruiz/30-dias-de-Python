@@ -43,14 +43,14 @@ x2 = 6
 m = y2 - y1 / x1 - x2 
 slope = m
 print (slope)
-euclidian_distance = (y2-y1 + x2-x1)
+euclidian_distance = (y2-y1 + x2-x1)**0.5 * 2
 print(euclidian_distance)
 
 y = m
 print(y = m)
 
-
-
+x=input('valor de x')
+y= (x*x)+(6 * x)+ 9
 
 
 

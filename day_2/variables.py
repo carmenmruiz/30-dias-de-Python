@@ -9,7 +9,7 @@ year = '2022'
 is_married = 'no'
 is_true= 'yes'
 is_ligth_on = 'no'
-year,age = '2022','16'
+year,age = '2023','16'
 
 #level 2
 print(type(first_name))
